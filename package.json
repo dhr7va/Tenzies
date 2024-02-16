@@ -2,7 +2,7 @@
   "name": "tenzies",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://dhr7va.github.io/react-gh-pages",
+  "homepage": "https://dhr7va.github.io/Tenzies",
   "dependencies": {
     "@testing-library/jest-dom": "^5.17.0",
     "@testing-library/react": "^13.4.0",
